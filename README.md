@@ -6,6 +6,8 @@
 
 ### Contains baisc indicator and machine learning models using tensor
 
+## Model
+
 ![Model](./Screenshots/Models/Screenshot(4).png)
 
 ### Result
